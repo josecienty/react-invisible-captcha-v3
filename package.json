@@ -1,0 +1,20 @@
+{
+  "name": "react-recaptcha-v3",
+  "version": "1.0.0",
+  "description": "Use react invisible recaptcha in hook",
+  "main": "use-recaptcha.jsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "recaptcha",
+    "invisible",
+    "v3"
+  ],
+  "author": "José Argüello",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
