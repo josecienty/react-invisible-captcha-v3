@@ -1,5 +1,5 @@
 {
-  "name": "react-recaptcha-v3",
+  "name": "react-invisible-captcha-v3",
   "version": "1.0.0",
   "description": "Use react invisible recaptcha in hook",
   "main": "use-recaptcha.jsx",
